@@ -1,0 +1,11 @@
+car-1 Mercedes-Maybach GLS 600
+The newest model to come from the Stuttgart-based carmaker's uber-luxury stable, 
+the Maybach GLS 600 is here to compete with the likes of the Bentley Bentayga,
+ Rolls-Royce Cullinan, and Maserati Levante.
+The Maybach GLS comes with a chrome B-pillar the brand logo on the D-pillar,
+ and the massive 23-inch multi-spoke wheels (optional) that extra bit of bling.
+
+car-2 Hyundai Grand i10 Nios
+The Hyundai Grand i10 Nios gets the cascading grilleThe Hyundai Grand i10 Nios
+ gets boomerang shaped LED DRLs which are integrated into the cascading grille
+ similar to the other cars in the family and it also gets a muscular bonnet
